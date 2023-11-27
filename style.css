@@ -1,0 +1,21 @@
+#divHead{
+    color: white;
+}
+body{
+    background-color:Ffcccb;
+}
+#start{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#dvn{
+    color:rgb(185, 4, 4);
+    background-color: rgb(255, 255, 255);
+    position:absolute;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    bottom:0;
+    width:100%;
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 20px;
+}
